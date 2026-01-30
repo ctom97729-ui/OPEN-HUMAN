@@ -1,2 +1,4 @@
 # OPEN-HUMAN
-There is no reason to look high in HUMAN nowadays So we creat thses subject to accept the AGE OF ROBOT\AGI\XR(wahtever you call it)
+Humans are no longer the highest reference point.
+Intelligence, agency, and creativity are becoming non-exclusive.
+This project accepts the Age of Robots / AGI / XR — not as sci-fi, but as reality — and asks what comes after human supremacy.
